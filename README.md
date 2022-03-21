@@ -1,7 +1,7 @@
 # time-series-portfolio
 
-3. Consider three stocks (Google, AAL, and Tesla) with prices from 2018/1/1 to 2021/10/1. Let $S_t$ denote the stock price at day $t$. The log-return at day $t$ is 
-$$r_t = \log\frac{S_t}{S_{t-1}}.$$
+3. Consider three stocks (Google, AAL, and Tesla) with prices from 2018/1/1 to 2021/10/1. 
+
     1. Show the time series plots historical prices of these three stocks. 
     2. Show the time series plots of log-returns of these three stocks. 
     3. Use the whole periods to summarize their expected returns and risk. Draw these three points on the 2D-plane. 
